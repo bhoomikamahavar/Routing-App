@@ -1,16 +1,28 @@
-# React + Vite
+<h1>Home Page</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1366" height="1192" alt="1" src="https://github.com/user-attachments/assets/db2019db-336e-4a65-926f-e512baa1ad7e" />
 
-Currently, two official plugins are available:
+<h2>About Page</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1366" height="1326" alt="2" src="https://github.com/user-attachments/assets/8fbe73cf-8e47-4c74-afa7-e0cde3840d4c" />
 
-## React Compiler
+<h2>Service Page</h2>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1366" height="725" alt="3" src="https://github.com/user-attachments/assets/7978ed69-91a7-4029-93e4-e4a4220eda0d" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>Contact Page</h2>
+
+<img width="1366" height="769" alt="4" src="https://github.com/user-attachments/assets/40f7c0ab-df21-4602-97b2-5be2837c2c77" />
+
+
+<h2>Register Page</h2>
+
+<img width="1366" height="1195" alt="5" src="https://github.com/user-attachments/assets/af88edd5-8fe1-49bd-9e08-7075a48f6ad7" />
+
+
+<h2>Login Page</h2>
+
+<img width="1366" height="769" alt="6" src="https://github.com/user-attachments/assets/20305856-eeea-4a64-b961-ff067bb87bd0" />
+
+
